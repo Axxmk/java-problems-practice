@@ -1,4 +1,4 @@
-package DivisorSum;
+package divisorSum;
 
 class MyCalculator implements AdvancedArithmetic {
 
